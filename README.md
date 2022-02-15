@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 A Timeblock scheduler with real-time updates via JavaScript, moment.js, jQuery (& HTML + CSS/Bootstrap).
 
 Deployed: https://andy-waine.github.io/Work-Day-Scheduler/
